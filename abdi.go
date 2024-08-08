@@ -1,5 +1,5 @@
 package playg
 
 func Hello() string {
-	return "Hi"
+	return "Hi kaka"
 }
